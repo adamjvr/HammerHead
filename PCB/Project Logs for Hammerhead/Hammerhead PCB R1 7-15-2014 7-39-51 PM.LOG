@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5VDC Pin=D6-1
+Removed Pin From Net: NetName=NetD6_2 Pin=D6-2
+Removed Member From Class: ClassName=U_Hammerhead - Power R1 Member=D6
+Added Component: Designator=D3(DIOM2715X14N)
+Added Pin To Net: NetName=5VDC Pin=D3-1
+Added Pin To Net: NetName=NetD6_2 Pin=D3-2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD3_2
+Added Member To Class: ClassName=U_Hammerhead - Power R1 Member=Component D3 1N5819HW-7-F

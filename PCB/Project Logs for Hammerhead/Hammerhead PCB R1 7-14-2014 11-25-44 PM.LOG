@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=FB16-1
+Removed Pin From Net: NetName=NetC?_2 Pin=U6-1
+Removed Pin From Net: NetName=NetC?_1 Pin=U6-6
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=C? NewDesignator=C57
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=NetC?_1 Pin=C55-2
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=-AVDD Pin=C56-2
+Added Pin To Net: NetName=NetC?_2 Pin=C57-1
+Added Pin To Net: NetName=NetC?_2 Pin=C57-2
+Added Pin To Net: NetName=NetC?_1 Pin=FB16-1
+Added Pin To Net: NetName=NetC?_1 Pin=U6-1
+Added Pin To Net: NetName=NetC?_2 Pin=U6-6
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC55_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC57_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC57_2
+Added Member To Class: ClassName=U_Hammerhead - Power R1 Member=Component C55 0805
+Added Member To Class: ClassName=U_Hammerhead - Power R1 Member=Component C57 0805

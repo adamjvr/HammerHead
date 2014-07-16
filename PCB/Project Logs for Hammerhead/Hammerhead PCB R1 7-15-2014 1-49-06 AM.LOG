@@ -1,0 +1,10 @@
+Added Component: Designator=R30(J1-0603)
+Added Pin To Net: NetName=SCLK Pin=R23-1
+Added Pin To Net: NetName=SCK Pin=R23-2
+Added Pin To Net: NetName=MAX_CS Pin=R24-1
+Added Pin To Net: NetName=CS_M Pin=R24-2
+Added Pin To Net: NetName=MISO Pin=R27-1
+Added Pin To Net: NetName=DOUT Pin=R27-2
+Added Pin To Net: NetName=MOSI Pin=R30-1
+Added Pin To Net: NetName=DIN Pin=R30-2
+Added Member To Class: ClassName=U_Hammerhead - MAX11300 Analog Hub R1 Member=Component R30 0603

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R74 Old Footprint=SM 0805 - gap trimmed New Footprint=J1-0603
+Change Component Footprint: Designator=R75 Old Footprint=SM 0805 - gap trimmed New Footprint=J1-0603
+Change Component Comment : Designator=R74 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=R75 Old Comment=0805 New Comment=0603

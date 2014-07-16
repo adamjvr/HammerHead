@@ -1,0 +1,7 @@
+Added Component: Designator=U8(QFN65P300X300X100_HS-17N - smaller pad)
+Added Pin To Net: NetName=DVDD Pin=U8-1
+Added Pin To Net: NetName=NetR21_1 Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=5VDC Pin=U8-5
+Added Pin To Net: NetName=5VDC Pin=U8-8
+Added Member To Class: ClassName=U_Hammerhead - Power R1 Member=Component U8 TPS73733QDRBRQ1

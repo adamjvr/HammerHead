@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Change Component Footprint: Designator=U6 Old Footprint=LT-S8-8_N New Footprint=SOT6
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=-AVDD Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
